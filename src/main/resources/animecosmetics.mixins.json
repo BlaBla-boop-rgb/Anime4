@@ -1,0 +1,19 @@
+{
+ "required": true,
+ "package": "dev.animecosmetics.mixin",
+ "compatibilityLevel": "JAVA_25",
+ "client": [
+  "AbstractClientPlayerMixin",
+  "GuiEntityRendererMixin",
+  "LevelRendererSubmitMixin",
+  "RenderPipelinesAccessor",
+  "RenderTypeAccessor",
+  "RenderSetupAccessor",
+  "SubmitNodeCollectionMixin",
+  "CloudRenderMixin",
+  "CloudFadeMixin"
+ ],
+ "injectors": {
+  "defaultRequire": 1
+ }
+}

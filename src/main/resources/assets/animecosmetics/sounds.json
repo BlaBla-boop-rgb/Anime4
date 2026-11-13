@@ -1,0 +1,20 @@
+{
+	"authority_open": {
+		"subtitle": "subtitles.animecosmetics.authority_open",
+		"sounds": [
+			{
+				"name": "animecosmetics:authority_open",
+				"attenuation_distance": 96
+			}
+		]
+	},
+	"authority_close": {
+		"subtitle": "subtitles.animecosmetics.authority_close",
+		"sounds": [
+			{
+				"name": "animecosmetics:authority_close",
+				"attenuation_distance": 48
+			}
+		]
+	}
+}

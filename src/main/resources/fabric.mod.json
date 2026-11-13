@@ -1,0 +1,22 @@
+{
+	"schemaVersion": 1,
+	"id": "animecosmetics",
+	"version": "1.1.0",
+	"name": "Anime Cosmetics",
+	"description": "Client-side anime skin, wings, cape, outer wings, red sky, sun eye and rift eye with vortex sky, each with its own hotkey. Only you see them.",
+	"authors": ["Mian3450"],
+	"license": "All Rights Reserved",
+	"environment": "client",
+	"entrypoints": {
+		"client": ["dev.animecosmetics.AnimeCosmeticsClient"]
+	},
+	"mixins": [
+		{ "config": "animecosmetics.mixins.json", "environment": "client" }
+	],
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~26.3",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

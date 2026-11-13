@@ -1,0 +1,18 @@
+{
+	"key.category.animecosmetics.main": "Anime Cosmetics",
+	"animecosmetics.feature.skin": "Anime-Skin",
+	"animecosmetics.feature.wings": "Flügel",
+	"animecosmetics.feature.cape": "Umhang",
+	"animecosmetics.state.on": "AN",
+	"animecosmetics.state.off": "AUS",
+	"animecosmetics.feature.feathers": "Äußere Flügel",
+	"animecosmetics.feature.sky": "Roter Himmel",
+	"animecosmetics.feature.sun_eye": "Sonnen-Auge",
+	"animecosmetics.feature.rift": "Riss-Auge",
+	"animecosmetics.feature.rift_sky": "Wirbelhimmel",
+	"subtitles.animecosmetics.authority_open": "Der Riss bricht auf",
+	"subtitles.animecosmetics.authority_close": "Der Riss schließt sich",
+	"key.animecosmetics.menu": "Cosmetics-Menü öffnen",
+	"animecosmetics.gui.title": "Anime Cosmetics",
+	"animecosmetics.gui.hint": "Klicken zum Umschalten · R oder Esc schließt"
+}
